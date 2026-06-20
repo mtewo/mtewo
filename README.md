@@ -23,6 +23,7 @@ I am currently pursuing my Bachlor's Degree in Media Computer Science at Hochsch
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)
 
 ### 🛠️Dev and Design Tools
+---
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -30,6 +31,7 @@ I am currently pursuing my Bachlor's Degree in Media Computer Science at Hochsch
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💽Database
+---
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
